@@ -1,0 +1,10 @@
+# JR NetBeans Pilot (jrnetbeanspilot) - Copyright 2026 Jose Rodriguez Arroyo
+# Developer: Jose Rodriguez Arroyo <jrpcone@gmail.com> - https://microrepair.net
+# Licensed under the Apache License, Version 2.0. SPDX-License-Identifier: Apache-2.0
+target/
+dist/
+*.nbm
+nbactions.xml
+nb-configuration.xml
+.idea/
+.vscode/
